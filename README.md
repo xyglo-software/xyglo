@@ -1,4 +1,7 @@
+theme: jekyll-theme-architect
+
 ## Xyglo Software
+ 
 
 Welcome to Xyglo Software
 
